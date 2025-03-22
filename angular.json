@@ -43,6 +43,8 @@
           },
           "configurations": {
             "production": {
+              "outputPath": "dist/angular-github-pages-test",
+              "baseHref": "/AngularGithubPagesTest",
               "budgets": [
                 {
                   "type": "initial",
