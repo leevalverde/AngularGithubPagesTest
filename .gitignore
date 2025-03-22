@@ -30,7 +30,7 @@ yarn-error.log
 
 # Visual Studio 2022
 .vs/*
-
+obj/*
 
 # Miscellaneous
 /.angular/cache
