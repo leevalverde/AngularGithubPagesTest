@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularGithubPagesTest';
+
+  protected Play_Audio(): void {
+    new Audio('/audio/page-flip-47177.mp3').play()
+  }
 }

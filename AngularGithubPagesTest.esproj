@@ -10,4 +10,7 @@
   <ItemGroup>
     <None Include=".github\workflows\deploy.yml" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="public\audio\" />
+  </ItemGroup>
 </Project>
